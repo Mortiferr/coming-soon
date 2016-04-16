@@ -1,0 +1,38 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  height: 100%;
+  margin: 0 0 50px;
+}
+h1 {
+  margin-top: 30vh;
+}
+footer {
+  background: #000;
+  color: #fff;
+  height: 50px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.left {
+  text-align: left;
+  float: left;
+}
+.right {
+  float: right;
+}
+.copyright {
+  margin-left: 10px;
+}
+.social {
+  display: inline-block;
+  padding-top: 9px;
+  padding-right: 9px;
+  color: #fff;
+}
